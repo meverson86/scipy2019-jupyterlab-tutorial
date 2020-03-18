@@ -4,6 +4,8 @@ This repository contains material and instructions for the JupyterLab tutorial d
 
 During the tutorial, feel free to get on the [Gitter `jupyterlab/jupyterlab` channel](https://gitter.im/jupyterlab/jupyterlab) for help and updates.
 
+The video recorded from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=RFabWieskak).
+
 <!--
 If you'd like to use JupyterLab without installing anything, you can go to the [JupyterLab demo Binder](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/c9df996a3bd27d9715de6da51b3c52d35def90f9?urlpath=lab/). You can then open a terminal and clone this repo with:
 ```
